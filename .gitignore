@@ -1,0 +1,6 @@
+.app
+.ipa
+.DS_Store
+*.ipa/
+*/
+secret.txt
