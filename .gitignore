@@ -4,3 +4,4 @@
 *.ipa/
 */
 secret.txt
+config.json
