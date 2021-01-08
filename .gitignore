@@ -1,7 +1,4 @@
-.app
-.ipa
-.DS_Store
-*.ipa/
 */
 secret.txt
 config.json
+authtoken
